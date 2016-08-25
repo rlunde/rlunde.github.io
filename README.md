@@ -12,19 +12,20 @@ Since I mostly work on this stuff when I'm really tired at the end of the day, I
 Let's see how I compare to average over time:
 
 After the first two months, I'm still pretty pathetic:
-1.05% after week 0
-1.28% after week 4
-1.55% after week 8
-...
+  - 1.05% after week 0
+  - 1.28% after week 4
+  - 1.55% after week 8
+ 
 But after a whole year of working at it, I'm 13% as good at them as people who use them regularly!
-10.92% after week 48
-13.27% after week 52
-16.14% after week 56
-...
+  - 10.92% after week 48
+  - 13.27% after week 52
+  - 16.14% after week 56
+  - ...
+
 And after two whole years of steady progress? Now we're talking!
-138.08% after week 100
-167.83% after week 104
-204.0% after week 108
+  - 138.08% after week 100
+  - 167.83% after week 104
+  - 204.0% after week 108
 
 See? Easy peasy. Now all I have to do, is do it! :-)
 
